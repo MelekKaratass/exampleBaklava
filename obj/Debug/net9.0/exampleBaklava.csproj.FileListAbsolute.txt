@@ -1,0 +1,14 @@
+C:\calismalarim\exampleBaklava\exampleBaklava\bin\Debug\net9.0\exampleBaklava.exe
+C:\calismalarim\exampleBaklava\exampleBaklava\bin\Debug\net9.0\exampleBaklava.deps.json
+C:\calismalarim\exampleBaklava\exampleBaklava\bin\Debug\net9.0\exampleBaklava.runtimeconfig.json
+C:\calismalarim\exampleBaklava\exampleBaklava\bin\Debug\net9.0\exampleBaklava.dll
+C:\calismalarim\exampleBaklava\exampleBaklava\bin\Debug\net9.0\exampleBaklava.pdb
+C:\calismalarim\exampleBaklava\exampleBaklava\obj\Debug\net9.0\exampleBaklava.GeneratedMSBuildEditorConfig.editorconfig
+C:\calismalarim\exampleBaklava\exampleBaklava\obj\Debug\net9.0\exampleBaklava.AssemblyInfoInputs.cache
+C:\calismalarim\exampleBaklava\exampleBaklava\obj\Debug\net9.0\exampleBaklava.AssemblyInfo.cs
+C:\calismalarim\exampleBaklava\exampleBaklava\obj\Debug\net9.0\exampleBaklava.csproj.CoreCompileInputs.cache
+C:\calismalarim\exampleBaklava\exampleBaklava\obj\Debug\net9.0\exampleBaklava.dll
+C:\calismalarim\exampleBaklava\exampleBaklava\obj\Debug\net9.0\refint\exampleBaklava.dll
+C:\calismalarim\exampleBaklava\exampleBaklava\obj\Debug\net9.0\exampleBaklava.pdb
+C:\calismalarim\exampleBaklava\exampleBaklava\obj\Debug\net9.0\exampleBaklava.genruntimeconfig.cache
+C:\calismalarim\exampleBaklava\exampleBaklava\obj\Debug\net9.0\ref\exampleBaklava.dll
